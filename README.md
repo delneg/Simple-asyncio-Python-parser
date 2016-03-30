@@ -4,7 +4,11 @@ Simple parser I've written to practice in async 3.5 Python code. This can be use
 Python 3.5
 
 aiohttp 0.21.2
+
+
 beautifulsoup4 4.4.1
+
+
 
 
 #Examples
